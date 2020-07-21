@@ -1,0 +1,4 @@
+/home/noa/Documents/UFRGS/PROJECTS/CIDIA19/covid-gui-old/examples/ScreenshotUtilities/build/CMakeFiles/rebuild_cache.dir
+/home/noa/Documents/UFRGS/PROJECTS/CIDIA19/covid-gui-old/examples/ScreenshotUtilities/build/CMakeFiles/edit_cache.dir
+/home/noa/Documents/UFRGS/PROJECTS/CIDIA19/covid-gui-old/examples/ScreenshotUtilities/build/CMakeFiles/screenshotUtilities.dir
+/home/noa/Documents/UFRGS/PROJECTS/CIDIA19/covid-gui-old/examples/ScreenshotUtilities/build/CMakeFiles/screenshotUtilities_autogen.dir
