@@ -34,7 +34,7 @@ then
 			# echo ${array_split[8]}
 			OUTPUT_PATH=$OUPUT_2D_SLICES_PATH/${array_split[8]}/
 
-			nohup ../build/screenshot-axis-views -tf $TRANSFER_FUNCTION_PATH -i $i -o $OUTPUT_PATH
+			../build/screenshot-axis-views -tf $TRANSFER_FUNCTION_PATH -i $i -o $OUTPUT_PATH
 	 done
 
 else
