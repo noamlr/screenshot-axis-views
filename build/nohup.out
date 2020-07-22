@@ -1,0 +1,11 @@
+[Wed Jul 22 18:43:19 2020 
+0.962] loading /home/guilherme/Documents/noa/cidia19/data/output/exame-pulmao/C99/UBFQ3HDB/crop_by_mask_AELS35BP.nii.gz via itk::ImageIOFactory...
+[0.963] ioRegion: ImageIORegion (0x7ffc836f2aa0)
+  Dimension: 3
+  Index: 0 0 0 
+  Size: 512 512 355
+[2.485] [192.5, -20.5, 1038.45]
+[2.485] [-122.5, -335.5, 789.95]
+[2.485] used time geometry: ProportionalTimeGeometry
+[2.486] number of image components: 1
+[2.713] ...finished!

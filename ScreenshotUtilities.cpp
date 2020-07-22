@@ -6,11 +6,11 @@
 #include "mitkProperties.h"
 #include "mitkRenderingManager.h"
 #include "mitkImageAccessByItk.h"
-#include <mitkIOUtil.h>
+#include "mitkIOUtil.h"
 
-#include <mitkTransferFunction.h>
-#include <mitkTransferFunctionProperty.h>
-#include <mitkTransferFunctionPropertySerializer.h>
+#include "mitkTransferFunction.h"
+#include "mitkTransferFunctionProperty.h"
+#include "mitkTransferFunctionPropertySerializer.h"
 
 #include "vtkRenderer.h"
 #include "vtkImageWriter.h"
@@ -124,7 +124,7 @@ void ScreenshotUtilities::InitializeRenderWindow()
   // Reposition the camera to include all visible actors
   renderer->ResetCamera();
   vtkCamera* vtkcam = renderer->GetActiveCamera();
-  vtkcam->Zoom( 2.3 );
+  vtkcam->Zoom( 1.8 );
   QColor backgroundColor = QColor(0,0,0);
   int magnifierValue = 1;
   if (nullptr != renderer){
