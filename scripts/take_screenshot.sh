@@ -1,3 +1,4 @@
+SCRIPT_EXEC=/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/build/screenshot-axis-views
 INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/output/exame-pulmao/
 OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/exame-pulmao/
 TRANSFER_FUNCTION_PATH=/home/guilherme/Documents/noa/cidia19/data/TF/tf12_2.xml
@@ -34,7 +35,7 @@ then
 			# echo ${array_split[8]}
 			OUTPUT_PATH=$OUPUT_2D_SLICES_PATH/${array_split[8]}/
 
-			../build/screenshot-axis-views -tf $TRANSFER_FUNCTION_PATH -i $i -o $OUTPUT_PATH
+			$SCRIPT_EXEC -tf $TRANSFER_FUNCTION_PATH -i $i -o $OUTPUT_PATH
 	 done
 
 else
