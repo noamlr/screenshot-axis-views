@@ -33,8 +33,8 @@ then
 	 		# echo $
 			array_split=(${i//\// })
 			# echo ${array_split[8]}
-			OUTPUT_PATH=$OUPUT_2D_SLICES_PATH/${array_split[8]}/
-
+			OUTPUT_PATH="$OUTPUT_2D_SLICES_PATH${array_split[8]}/"
+			echo $OUTPUT_PATH
 			$SCRIPT_EXEC -tf $TRANSFER_FUNCTION_PATH -i $i -o $OUTPUT_PATH
 	 done
 

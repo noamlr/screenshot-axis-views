@@ -1,0 +1,2651 @@
+[Wed Jul 22 21:53:33 2020 
+0.947] loading /home/guilherme/Documents/noa/cidia19/data/output/exame-pulmao/C100/FN4B2WKP/crop_by_mask_5NYZMHK1.nii.gz via itk::ImageIOFactory...
+[0.949] ioRegion: ImageIORegion (0x7ffdc9c64e80)
+  Dimension: 3
+  Index: 0 0 0 
+  Size: 512 512 439
+[2.720] [187, 17, 994.55]
+[2.720] [-187, -357, 687.25]
+[2.720] used time geometry: ProportionalTimeGeometry
+[2.721] number of image components: 1
+[2.947] ...finished!
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e5d4440): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e5d4440): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e6a7ac0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e6a7ac0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e6a7ac0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e6a7ac0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4bca00): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4bca00): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4bca00): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4bca00): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e5bac60): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e5bac60): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e5bac60): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e5bac60): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis1/3D_View1.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis2/3D_View2.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis3/3D_View3.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkPNGWriter.cxx, line 277
+vtkPNGWriter (0x55bc3e4f11c0): Unable to open file /C100/axis4/3D_View4.png
+
+ERROR: In /home/guilherme/MITK-build/ep/src/VTK/IO/Image/vtkImageWriter.cxx, line 555
+vtkPNGWriter (0x55bc3e4f11c0): Ran out of disk space; deleting file(s) already written
+
