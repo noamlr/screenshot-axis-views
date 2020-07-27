@@ -45,6 +45,7 @@ void ScreenshotUtilities::Initialize(){
 
     // Volume Rendering and Transfer function
     this->m_ResultNode->SetProperty("volumerendering", mitk::BoolProperty::New(true));
+    this->m_ResultNode->SetProperty("volumerendering.usegpu", mitk::BoolProperty::New(true));
     this->m_ResultNode->SetProperty("layer", mitk::IntProperty::New(1));
 
     mitk::TransferFunction::Pointer tf = mitk::TransferFunction::New();
@@ -140,10 +141,10 @@ void ScreenshotUtilities::InitializeRenderWindow()
     vtkcam->Roll( 90 );
     vtkcam->Azimuth( -7.5 );
     
-    int viewLength = 55;
+    int viewLength = 41;
     
-    double horizontalDeltaDegree = 0.30;
-    double verticalDeltaDegree = 0.30;
+    double horizontalDeltaDegree = 0.40;
+    double verticalDeltaDegree = 0.40;
 
     //Horizontal Movement
     double deltaDegree = horizontalDeltaDegree;

@@ -1,6 +1,6 @@
 SCRIPT_EXEC=/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/build/screenshot-axis-views
 INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/output/exame-pulmao/
-OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/exame-pulmao/
+OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/exame-pulmao-2/
 TRANSFER_FUNCTION_PATH=/home/guilherme/Documents/noa/cidia19/data/TF/tf12_2.xml
 
 array_axis=( "axis1" "axis2" "axis3" "axis4" )
