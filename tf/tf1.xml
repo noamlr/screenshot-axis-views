@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Version TransferfunctionVersion="1" />
+<TransferFunction>
+    <ScalarOpacity>
+        <point x="-832.72039473684208" y="0" />
+        <point x="-709.75493421052624" y="0.77922077922077926" />
+        <point x="-409.17269736842104" y="0" />
+        <point x="191.99177631578937" y="0" />
+        <point x="1075.5213815789475" y="0" />
+    </ScalarOpacity>
+    <GradientOpacity>
+        <point x="-459.26973684210532" y="0.021739130434782594" />
+        <point x="556.33388157894728" y="0.23913043478260865" />
+    </GradientOpacity>
+    <Color>
+        <point x="-764.40625" r="0.94117647058823528" g="0" b="0.20784313725490197" midpoint="0.5" sharpness="0" />
+        <point x="-732.52631578947376" r="0.22352941176470609" g="0.17254901960784316" b="0.94117647058823528" midpoint="0.5" sharpness="0" />
+        <point x="-559.46381578947376" r="0.55686274509803924" g="1" b="0.69019607843137254" midpoint="0.5" sharpness="0" />
+        <point x="-390.95559210526312" r="0.65490196078431373" g="0.96862745098039216" b="1" midpoint="0.5" sharpness="0" />
+        <point x="677.24934399999995" r="1" g="0.88235300000000005" b="0.21568599999999999" midpoint="0.5" sharpness="0" />
+        <point x="808.59580100000005" r="1" g="1" b="1" midpoint="0.5" sharpness="0" />
+    </Color>
+</TransferFunction>
