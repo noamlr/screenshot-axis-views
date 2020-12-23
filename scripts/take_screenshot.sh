@@ -1,11 +1,12 @@
 SCRIPT_EXEC=/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/build/screenshot-axis-views
-#INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/NII-HMV-OUT/exame-pulmao/
-INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/NII-HCPA-OUT/exame-pulmao/
-#OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/HMV/exame-pulmao/
-OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/HCPA/exame-pulmao/
+#INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/PHNN-HMV-HCPA/exame-pulmao/
+INPUT_3D_IMAGE_PATH=/home/guilherme/Documents/noa/cidia19/data/NII-HMV-pt3/exame-pulmao/
+#OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/HMV-HCPA-tf12-all/exame-pulmao/
+OUTPUT_2D_SLICES_PATH=/home/guilherme/Documents/noa/cidia19/data/output-2d/HMV-HCPA-tf12-all-2/exame-pulmao/
 TRANSFER_FUNCTION_PATH=/home/guilherme/Documents/noa/cidia19/data/TF/tf12_2.xml
 
-array_axis=( "axis1" "axis2" "axis3" "axis4" )
+array_axis=( "axis1" "axis2" "axis3" "axis4")
+#array_axis=( "axis1" "axis2" )
 
 if [ -d "$INPUT_3D_IMAGE_PATH" ] && [ -d "$OUTPUT_2D_SLICES_PATH" ];
 then
@@ -29,6 +30,7 @@ then
 	
 	 # reading all cropped lungs
 	 array_lung_input=($(ls $INPUT_3D_IMAGE_PATH*/*/crop_by_mask_*))
+	 #array_lung_input=($(ls $INPUT_3D_IMAGE_PATH*/*/vidro_fosco_*))
 
 	 for i in "${array_lung_input[@]}"
 	 do

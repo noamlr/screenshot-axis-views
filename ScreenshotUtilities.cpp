@@ -113,7 +113,8 @@ void ScreenshotUtilities::InitializeRenderWindow()
   // Use it as a 3D view
   renderWindow->GetRenderer()->SetMapperID(mitk::BaseRenderer::Standard3D);
   // renderWindow->resize(1024, 900);
-  renderWindow->resize(512, 450);
+  // renderWindow->resize(512, 450);
+  renderWindow->resize(448, 448);
 
   renderWindow->setAttribute(Qt::WA_DontShowOnScreen);
   renderWindow->show();
@@ -143,8 +144,8 @@ void ScreenshotUtilities::InitializeRenderWindow()
     
     int viewLength = 41;
     
-    double horizontalDeltaDegree = 0.40;
-    double verticalDeltaDegree = 0.40;
+    double horizontalDeltaDegree = 0.60;
+    double verticalDeltaDegree = 0.60;
 
     //Horizontal Movement
     double deltaDegree = horizontalDeltaDegree;
@@ -264,8 +265,8 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-
-    /*filePath = this->m_OutputDir + "axis5";
+/*
+    filePath = this->m_OutputDir + "axis5";
 
     vtkcam->Azimuth( -90 );
     
@@ -316,7 +317,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
       if(i) vtkcam->Elevation( deltaDegree );
       this->TakeScreenshot(renderer, magnifierValue, filePath+fileName, filter, backgroundColor);
     }    
-    vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );*/
+    vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
+
+    */
   }
 }
 
