@@ -48,16 +48,20 @@ class ScreenshotUtilities
 
     QColor m_BackgroundColor;
 
-    QString           m_TransferFunctionFile;
-    QString           m_OutputDir;   
-    QString           m_LastFile;
-    QString           m_PNGExtension = "PNG File (*.png)";
-    QString           m_JPGExtension = "JPEG File (*.jpg)";
+    QString m_TransferFunctionFile;
+    QString m_OutputDir;   
+    QString m_LastFile;
+    QString m_PNGExtension = "PNG File (*.png)";
+    QString m_JPGExtension = "JPEG File (*.jpg)";
+    int m_WidthSize = 512;
+    int m_HeightSize = 512;
+    int m_SlicesCount = 82;
+    bool m_AxisBool[6] = {0};
 
   private:
     void SetDefaultTransferFunction(mitk::TransferFunction::Pointer tf);
     void TakeScreenshot(vtkRenderer* renderer, unsigned int magnificationFactor, QString fileName, 
-      QString filter = "", QColor backgroundColor = QColor(255,255,255));
+    QString filter = "", QColor backgroundColor = QColor(255,255,255));
     QString GetNewFileName(QString filePath, QString fileName, QString secondFileName);
     
 };

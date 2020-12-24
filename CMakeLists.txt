@@ -4,8 +4,10 @@ set (CMAKE_AUTOMOC ON)
 
 project(screenshot-axis-views)
 
-set(MITK_SUPERBUILD_DIR "/home/guilherme/MITK-build")
-set(QT_DIR "/home/guilherme")
+set(MITK_SUPERBUILD_DIR "/home/noa/MITK-build")
+# set(MITK_SUPERBUILD_DIR "/home/guilherme/MITK-build")
+set(QT_DIR "/home/noa")
+# set(QT_DIR "/home/guilherme")
 
 set(CMAKE_PREFIX_PATH
 		"${MITK_SUPERBUILD_DIR}/MITK-build"

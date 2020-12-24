@@ -114,7 +114,8 @@ void ScreenshotUtilities::InitializeRenderWindow()
   renderWindow->GetRenderer()->SetMapperID(mitk::BaseRenderer::Standard3D);
   // renderWindow->resize(1024, 900);
   // renderWindow->resize(512, 450);
-  renderWindow->resize(448, 448);
+  // renderWindow->resize(448, 448);
+  renderWindow->resize(this->m_WidthSize, this->m_HeightSize);
 
   renderWindow->setAttribute(Qt::WA_DontShowOnScreen);
   renderWindow->show();
@@ -136,13 +137,13 @@ void ScreenshotUtilities::InitializeRenderWindow()
     QString filePath, fileName;
     int c = 1;
 
-    filePath = this->m_OutputDir + "axis1";
+    filePath = this->m_OutputDir + "/axis1";
     
     //Azimuth
     vtkcam->Roll( 90 );
     vtkcam->Azimuth( -7.5 );
     
-    int viewLength = 41;
+    int viewLength = this->m_SlicesCount/2;
     
     double horizontalDeltaDegree = 0.60;
     double verticalDeltaDegree = 0.60;
@@ -173,7 +174,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-    filePath = this->m_OutputDir + "axis2";
+    if (this->m_AxisBool[0]) return;
+
+    filePath = this->m_OutputDir + "/axis2";
     
     //Moving to another axis
     vtkcam->Roll( 4 );
@@ -203,8 +206,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-
-    filePath = this->m_OutputDir + "axis3";
+    if (this->m_AxisBool[1]) return;
+    
+    filePath = this->m_OutputDir + "/axis3";
     
     vtkcam->Roll( 90 );
     vtkcam->Azimuth( 90 );
@@ -237,7 +241,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-    filePath = this->m_OutputDir + "axis4";
+    if (this->m_AxisBool[2]) return;
+
+    filePath = this->m_OutputDir + "/axis4";
     
     vtkcam->Roll( 90 );
     vtkcam->Azimuth( -90 );
@@ -265,8 +271,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-/*
-    filePath = this->m_OutputDir + "axis5";
+    if (this->m_AxisBool[3]) return;
+
+    filePath = this->m_OutputDir + "/axis5";
 
     vtkcam->Azimuth( -90 );
     
@@ -292,8 +299,9 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-    
-    filePath = this->m_OutputDir + "axis6";
+    if (this->m_AxisBool[4]) return;
+
+    filePath = this->m_OutputDir + "/axis6";
 
     vtkcam->Azimuth( 180 );
     
@@ -319,7 +327,6 @@ void ScreenshotUtilities::InitializeRenderWindow()
     }    
     vtkcam->Elevation( -(double)((1+viewLength)/2)*deltaDegree );
 
-    */
   }
 }
 
@@ -388,13 +395,20 @@ void ScreenshotUtilities::Load(int argc, char *argv[])
   bool readImage = false;
   bool readTF = false;
   bool readOuputDir = false;
+  bool readWidth = false;
+  bool readHeight = false;
+  bool readSlicesCount = false;
   
   int i;
   for (i = 1; i < argc; ++i){
+  
     if (strcmp(argv[i], "-i") == 0){
       readImage = true;
       readTF = false;
       readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
       continue;
     }
       
@@ -402,6 +416,9 @@ void ScreenshotUtilities::Load(int argc, char *argv[])
       readImage = false;
       readTF = true;
       readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
       continue;
     }
 
@@ -409,6 +426,99 @@ void ScreenshotUtilities::Load(int argc, char *argv[])
       readImage = false;
       readTF = false;
       readOuputDir = true;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-w") == 0){
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = true;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-h") == 0){
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = true;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-c") == 0){
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = true;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-a1") == 0){
+      for (int k = 0; k < 6; k++) this->m_AxisBool[i] = 0;
+      this->m_AxisBool[0] = 1;
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-a2") == 0){
+      for (int k = 0; k < 6; k++) this->m_AxisBool[i] = 0;
+      this->m_AxisBool[1] = 1;
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-a3") == 0){
+      for (int k = 0; k < 6; k++) this->m_AxisBool[i] = 0;
+      this->m_AxisBool[2] = 1;
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-a4") == 0){
+      for (int k = 0; k < 6; k++) this->m_AxisBool[i] = 0;
+      this->m_AxisBool[3] = 1;
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
+      continue;
+    }
+
+    if (strcmp(argv[i], "-a5") == 0){
+      for (int k = 0; k < 6; k++) this->m_AxisBool[i] = 0;
+      this->m_AxisBool[5] = 1;
+      readImage = false;
+      readTF = false;
+      readOuputDir = false;
+      readWidth = false;
+      readHeight = false;
+      readSlicesCount = false;
       continue;
     }
 
@@ -424,6 +534,15 @@ void ScreenshotUtilities::Load(int argc, char *argv[])
     }
     if(readOuputDir){
       this->m_OutputDir=argv[i];
+    }
+    if(readWidth){
+      this->m_WidthSize=atoi(argv[i]);
+    }
+    if(readHeight){
+      this->m_HeightSize=atoi(argv[i]);
+    }
+    if(readSlicesCount){
+      this->m_SlicesCount=atoi(argv[i]);
     }
   }
 }
