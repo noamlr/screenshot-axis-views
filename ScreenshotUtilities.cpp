@@ -63,7 +63,6 @@ void ScreenshotUtilities::Initialize(){
     levWinProp->SetLevelWindow(levelwindow);
     this->m_ResultNode->SetProperty("levelwindow", levWinProp);
   }
-
   this->InitializeRenderWindow();
 
 }
@@ -106,7 +105,7 @@ void ScreenshotUtilities::InitializeRenderWindow()
 {
   mitk::StandaloneDataStorage::Pointer ds = mitk::StandaloneDataStorage::New();
   QmitkRenderWindow* renderWindow = new QmitkRenderWindow();
-
+	
   // Tell the renderwindow which (part of) the tree to render
   renderWindow->GetRenderer()->SetDataStorage(m_DataStorageModified);
 
@@ -362,6 +361,7 @@ void ScreenshotUtilities::TakeScreenshot(vtkRenderer* renderer, unsigned int mag
     fileWriter = vtkPNGWriter::New();
   }
 
+	cout << "111111" << endl;
   vtkRenderLargeImage* magnifier = vtkRenderLargeImage::New();
   magnifier->SetInput(renderer);
   magnifier->SetMagnification(magnificationFactor);
@@ -373,6 +373,7 @@ void ScreenshotUtilities::TakeScreenshot(vtkRenderer* renderer, unsigned int mag
   // we set the background to white, because it is nicer than black...
   double oldBackground[3];
   renderer->GetBackground(oldBackground);
+	cout << "2222222" << endl;
 
   m_BackgroundColor = backgroundColor;
 
@@ -381,6 +382,7 @@ void ScreenshotUtilities::TakeScreenshot(vtkRenderer* renderer, unsigned int mag
 
   fileWriter->Write();
   fileWriter->Delete();
+	cout << "3333333" << endl;
   renderer->GetRenderWindow()->SetDoubleBuffer(doubleBuffering);
 }
 
