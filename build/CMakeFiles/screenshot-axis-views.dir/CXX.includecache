@@ -62,22 +62,6 @@ QString
 QColor
 -
 
-/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/ScreenshotUtilitiesMain.cpp
-QmitkRegisterClasses.h
-/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/QmitkRegisterClasses.h
-ScreenshotUtilities.h
-/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/ScreenshotUtilities.h
-mitkDataStorage.h
-/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/mitkDataStorage.h
-QApplication
--
-itksys/SystemTools.hxx
--
-EGL/egl.h
--
-
-/home/guilherme/Documents/noa/cidia19/screenshot-axis-views/build/screenshot-axis-views_autogen/mocs_compilation.cpp
-
 /home/guilherme/MITK-build/MITK-build/Modules/Core/MitkCoreExports.h
 
 /home/guilherme/MITK-build/MITK-build/Modules/CppMicroServices/core/include/usCoreConfig.h
@@ -1992,40 +1976,6 @@ abi.h
 stdint.h
 -
 inttypes.h
--
-
-/home/guilherme/MITK-build/ep/include/ITK-4.13/itksys/Configure.h
-
-/home/guilherme/MITK-build/ep/include/ITK-4.13/itksys/Configure.hxx
-itksys/Configure.h
--
-
-/home/guilherme/MITK-build/ep/include/ITK-4.13/itksys/String.hxx
-string
--
-
-/home/guilherme/MITK-build/ep/include/ITK-4.13/itksys/SystemTools.hxx
-itksys/Configure.hxx
--
-iosfwd
--
-map
--
-string
--
-vector
--
-itksys/String.hxx
--
-sys/types.h
--
-sys/stat.h
--
-unistd.h
--
-stdarg.h
--
-stdio.h
 -
 
 /home/guilherme/MITK-build/ep/include/ITK-4.13/vcl_cassert.h
@@ -4802,10 +4752,6 @@ QWidget
 MitkQtWidgetsExports.h
 /home/guilherme/MITK/Modules/QtWidgets/include/MitkQtWidgetsExports.h
 QObject
--
-
-/home/guilherme/MITK/Modules/QtWidgets/include/QmitkRegisterClasses.h
-MitkQtWidgetsExports.h
 -
 
 /home/guilherme/MITK/Modules/QtWidgets/include/QmitkRenderWindow.h
